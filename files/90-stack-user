@@ -1,0 +1,2 @@
+# User rules for root
+stack ALL=(ALL) NOPASSWD:ALL
